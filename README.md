@@ -1,4 +1,4 @@
-# SECONDLIFEGAME
+# Second Life Game
 
 Game created using Unity, scripted in C#.
 Game was created for Game Design, Development and Tools course.
