@@ -1,7 +1,7 @@
 # SECONDLIFEGAME
 
 Game created using Unity, scripted in C#.
-Game was created for Game Development course.
+Game was created for GGame Design, Development and Tools course.
 
 Game was created by: H. Stam, M. Hua, L. Xiao, M. Zeidler, and D. Ahmed
 
