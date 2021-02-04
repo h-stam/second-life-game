@@ -1,6 +1,7 @@
 # Second Life Game
 
 Game was created for Game Design, Development and Tools course.
+
 Game was created by: H. Stam (myself), M. Hua, L. Xiao, M. Zeidler, and D. Ahmed
 
 Second Life is a third person shooter game, where the protagonist travels to three different realms to find their lost soul.
